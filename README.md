@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![cover](https://img2.pngio.com/hi-there-there-png-1100_277.png)
 
-I am Gautam. Software Engineer with the experience of working in the information technology industry. I’m currently working as full stack developer @ZeMoSoLabs. Comfortable in C (Programming Language), Python (Programming Language), C++ and JavaScript. I like to play :soccer: football  and love to :eyes: watch  anime.
+I am Gautam. Software Engineer with the experience of working in the information technology industry. I’m currently in frontend(React). Comfortable in C (Programming Language), Python (Programming Language), C++ and JavaScript. I like to play :soccer: football  and love to :eyes: watch  anime.
